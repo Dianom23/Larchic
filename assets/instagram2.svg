@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{stroke:#FFFFFF;stroke-width:1.5;}
+	.st2{display:inline;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="Слой_2">
+</g>
+<g id="Слой_1">
+	<g class="st0">
+		<rect id="svg_4" x="-120.5" y="-50.5" class="st1" width="170" height="196"/>
+		<rect id="svg_5" x="4.5" y="-88.5" class="st1" width="182" height="133"/>
+		<rect id="svg_7" x="-29.5" y="-20.5" width="96" height="197"/>
+		<rect id="svg_8" x="48.5" y="-40.5" width="191" height="101"/>
+		<rect id="svg_9" x="321.5" y="-27.5" width="244" height="74"/>
+		<rect id="svg_10" x="487.5" y="18.5" width="120" height="107"/>
+		<rect id="svg_11" x="395.5" y="-30.5" width="149" height="114"/>
+		<rect id="svg_12" x="478.5" y="296.5" width="157" height="241"/>
+		<rect id="svg_13" x="360.5" y="471.5" width="168" height="109"/>
+		<rect id="svg_14" x="428.5" y="470.5" width="183" height="36"/>
+		<rect id="svg_15" x="455.5" y="381.5" width="93" height="126"/>
+		<rect id="svg_16" x="486.5" y="48.5" class="st2" width="124" height="285"/>
+		<rect id="svg_17" x="-178.5" y="487.5" class="st2" width="378" height="163"/>
+		<rect id="svg_19" x="-59.5" y="147.5" width="90" height="368"/>
+		<rect id="svg_21" x="6.5" y="431.5" class="st2" width="71" height="90"/>
+	</g>
+	<title>Layer 1</title>
+	<path class="st3" d="M332,90H180c-49.6,0-90,40.4-90,90v152c0,49.6,40.4,90,90,90h152c49.6,0,90-40.4,90-90V180
+		C422,130.4,381.6,90,332,90z M392,332c0,33.1-26.9,60-60,60H180c-33.1,0-60-26.9-60-60V180c0-33.1,26.9-60,60-60h152
+		c33.1,0,60,26.9,60,60V332z"/>
+	<circle class="st3" cx="342" cy="170" r="15"/>
+	<path class="st3" d="M256,179.5c-42.2,0-76.5,34.3-76.5,76.5s34.3,76.5,76.5,76.5c42.2,0,76.5-34.3,76.5-76.5
+		S298.2,179.5,256,179.5z M256,301c-24.9,0-45-20.1-45-45s20.1-45,45-45s45,20.1,45,45S280.9,301,256,301z"/>
+</g>
+</svg>
